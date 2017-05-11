@@ -1,0 +1,73 @@
+https://econfluence.int.asurion.com/display/PROTECTAPP/PA+Architecture+Home
+
+https://econfluence.int.asurion.com/display/APA/Projects
+
+*https://econfluence.int.asurion.com/display/PROTECTAPP/Business+Capabilites
+https://econfluence.int.asurion.com/display/PROTECTAPP/Platform+-+Genesis+Project
+https://econfluence.int.asurion.com/pages/viewpage.action?pageId=41224947
+
+PSS-
+https://econfluence.int.asurion.com/display/PSSDEV/Premier+Support+Solutions%28PSS%29+Platform+Development+and+Delivery+Home
+https://econfluence.int.asurion.com/display/PSSDEV/Architecture
+
+telemtry-
+https://econfluence.int.asurion.com/display/AAT/Android+Telemetry+Architecture
+
+engagemnt-
+https://econfluence.int.asurion.com/display/PAT/Competencies+and+Objectives
+
+Writeup-
+https://econfluence.int.asurion.com/display/PAT/Problem+solving
+https://econfluence.int.asurion.com/display/ARH/Soluto
+https://econfluence.int.asurion.com/display/APA/About+Asurion+Protection+Apps
+https://econfluence.int.asurion.com/pages/viewpage.action?pageId=62587976
+https://econfluence.int.asurion.com/display/APA/Soluto%3APSS%3AProtection+Applications
+https://econfluence.int.asurion.com/display/DPP/Protection+Apps+%28DP%29+Portfolio+Home
+https://econfluence.int.asurion.com/display/PROTECTAPP/Vault+Architecture
+
+
+web-
+https://www.lookout.com/
+https://www.lookout.com/products/personal
+https://www.lookout.com/products/app-security
+https://www.lookout.com/products/mobile-endpoint-security
+
+
+https://www.guardsquare.com/en/dexguard
+https://play.google.com/store/apps/details?id=com.asurion.android.mobilerecovery.att&hl=en
+
+
+
+
+Functionalties -
+Backup/Restore
+Locate/Sound/Lock/Wipe
+AntiVirus/Safebrowsing
+Remote Customer Support
+Telemetery & Bigdata anaylsis/Data Driven Insights
+Live Chat and KIA(Knowledge based module)
+
+
+
+
+
+Decision Logic:
+•	Is the free space less than X% of the overall device storage?
+•	Has the user received a notification about low storage recently?
+Recommendations:
+•	Uninstall applications that are not in a frequent use.
+•	Remove unwanted photos/videos.
+The data is used to generate rich HTML content and delivered to the user.
+
+ 
+Users also have the option to locate and protect a lost mobile device or sound an alarm even if the phone is on vibrate/silent.
+Advanced technical support feature can enable users to fix issues on their devices with expert tech assistance. 
+
+expert help with issues like:
+Advanced troubleshooting for your devices.
+Optimizing settings on your device to maximize battery performance and extend battery life.
+Backing up and transferring music, pictures, video, and other personal content.
+Removing unwanted programs and adjusting settings.
+Troubleshooting viruses, spyware and malware.
+
+
